@@ -6,7 +6,7 @@ Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 
-Warns you in case of <meta name="robots" content="noindex"> hidden in your posts.
+Warns the author or admin in case of <code>&lt;meta name="robots" content="noindex"&gt;</code> hidden in a post.
 
 == Description ==
 
@@ -29,6 +29,10 @@ This plugin will check if there are some hidden meta tags with noindex and warns
 If you see a warning, just edit the post (in plain text mode) and delete the hidden metas.
 
 == Changelog ==
+
+= 0.9.1 =
+* 2015/06/19
+* Some minor changes in plugins descriptions
 
 = 0.9 =
 * 2015/06/19
